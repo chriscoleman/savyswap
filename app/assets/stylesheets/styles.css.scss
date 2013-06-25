@@ -16,7 +16,9 @@ body {
 
 @import 'bootstrap-responsive';
 
-
+.navbar .nav > li > a:hover {
+color: green;
+}
 
 .footer {
 
